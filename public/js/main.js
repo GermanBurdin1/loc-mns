@@ -1,4 +1,3 @@
-// Импорт Bootstrap CSS через JavaScript может потребоваться, если вы используете модульную сборку
 import 'bootstrap/dist/css/bootstrap.min.css';
 // Импорт дополнительных скриптов или модулей
 // import { validateForm } from './form-validation.js';
