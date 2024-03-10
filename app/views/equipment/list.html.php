@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Location d'équipement</title>
-  <!-- Предполагается, что Bootstrap CSS уже импортирован в вашем собранном CSS файле -->
+ 
 </head>
 <body>
   <?php include 'shared/header.php'; ?>
@@ -21,7 +21,7 @@
 
   <?php include 'shared/footer.php'; ?>
 
-  <!-- Предполагается, что Bootstrap JS и зависимости уже включены в ваш собранный JavaScript файл -->
+  
   <script>
     let offset = 0; // Décalage pour la requête de la prochaine série d'équipements
     const limit = 10; // Nombre d'éléments à la fois
