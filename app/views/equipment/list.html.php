@@ -6,7 +6,7 @@
  
 </head>
 <body>
-  <?php include 'shared/header.php'; ?>
+  <?php include '../shared/header.php'; ?>
 
   <div class="container-fluid">
     <div class="row">
@@ -19,7 +19,7 @@
     </div>
   </div>
 
-  <?php include 'shared/footer.php'; ?>
+  <?php include '../shared/footer.php'; ?>
 
   
   <script>
