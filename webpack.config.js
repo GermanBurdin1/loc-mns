@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/index.js', 
+  entry: './public/js/main.js', 
 
   module: {
     rules: [
